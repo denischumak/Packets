@@ -1,22 +1,4 @@
-(* Content-type: application/vnd.wolfram.mathematica *)
 
-(*** Wolfram Notebook File ***)
-(* http://www.wolfram.com/nb *)
-
-(* CreatedBy='Mathematica 13.1' *)
-
-(*CacheID: 234*)
-(* Internal cache information:
-NotebookFileLineBreakTest
-NotebookFileLineBreakTest
-NotebookDataPosition[       158,          7]
-NotebookDataLength[    234126,       5688]
-NotebookOptionsPosition[    205986,       5213]
-NotebookOutlinePosition[    206553,       5233]
-CellTagsIndexPosition[    206510,       5230]
-WindowFrame->Normal*)
-
-(* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
